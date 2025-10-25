@@ -132,3 +132,61 @@ Developers can use wireframes to estimate complexity, workload, and timeline mor
 
 Wireframes allow early usability testing — teams can check if navigation is intuitive or if user flows make sense before investing in full UI design.
 
+
+## Wireframing in Practice
+
+### A real-world scenario where wireframing identified potential usability issues before the development phase
+Background
+
+A development team was building an e-commerce web application for a retail store. During the planning stage, the UX designer created wireframes for the entire user journey — from product selection to checkout and payment.
+
+Usability Issue Identified
+
+When the wireframes were shared with stakeholders and a small group of test users, they noticed that the checkout process required navigating through five different pages:
+
+Cart review
+
+Delivery details
+
+Payment method
+
+Order summary
+
+Confirmation
+
+Users felt the process was too long and confusing, especially on mobile devices.
+Some even thought they had already completed their purchase before reaching the confirmation page.
+
+How the Issue Was Resolved
+
+Because this was still the wireframing stage, no code had been written yet.
+The design team quickly revised the wireframes to:
+
+Combine steps 2 and 3 (Delivery + Payment) into one screen.
+
+Add a progress bar showing users how many steps remained.
+
+Introduce a persistent “Back” button for easier navigation.
+
+After testing the updated wireframes, users reported a smoother, more intuitive experience.
+
+Impact on the Final Product
+
+When the app was finally developed:
+
+The checkout completion rate increased by 25% compared to the initial prototype.
+
+The design team avoided costly rework, saving both time and resources.
+
+Customer satisfaction improved, leading to more repeat purchases.
+
+Conclusion
+
+This scenario shows how wireframing acts as an early problem-solving tool.
+By visualizing the user flow before development:
+
+Teams can identify usability issues early,
+
+Make fast, low-cost improvements, and
+
+Ensure the final product delivers a seamless, user-friendly experience.
