@@ -56,3 +56,37 @@ By stripping away visual design elements, wireframes allow designers to concentr
 
 - Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 - High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+
+## Wireframing Tools
+
+### Popular wireframing tools.
+Popular wireframing tools include Figma, Adobe XD, and Sketch, which are all-in-one design platforms, as well as Balsamiq for its simplicity and UXPin for interactive, higher-fidelity designs. Other widely used options are Miro for collaborative whiteboarding and Justinmind for creating interactive simulations. 
+
+in summary, the best 6 include:  
+- Figma for real-time collaboration
+
+- Moqups for beginners
+
+- Balsamiq for non-designers
+
+- UXPin for code-based design
+
+- Justinmind for interactive wireframes
+
+- Visily for AI-assisted wireframing
+
+#### Figma: Its features and why it’s useful for wireframing.
+Figma is a powerful, collaborative design tool for teams. Explore ideas and gather feedback, build realistic prototypes, and streamline product development with design systems. Figma Design is included in the Full seat on every plan.
+
+A faster, more efficient way of working: 
+Figma brings together powerful design tools with multiplayer collaboration, allowing teams to explore ideas while capturing quality feedback in real time—or anytime.
+
+Alignment made easy: 
+Work together in a multiplayer, version-controlled design file, and get contextual feedback from stakeholders with commenting.
+
+Bring your designs to life—without leaving the canvas:
+Create realistic, no-code interactions with prototyping. Fine tune every element of your user experience by iterating and testing in a single tool.
+
+Enable consistency at scale:
+Standardize styles, components, and variables so that everything, from color to padding, scales seamlessly across your products and brands.
